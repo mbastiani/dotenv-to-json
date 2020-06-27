@@ -1,4 +1,4 @@
 .vs/*
 
-.DotEnvToJson.App/bin/*
-.DotEnvToJson.App/obj/*
+DotEnvToJson.App/bin/*
+DotEnvToJson.App/obj/*
