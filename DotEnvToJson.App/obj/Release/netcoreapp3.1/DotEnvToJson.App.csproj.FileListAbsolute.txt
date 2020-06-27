@@ -1,0 +1,15 @@
+C:\Code\dotenv-to-json\DotEnvToJson.App\bin\Release\netcoreapp3.1\DotEnvToJson.exe
+C:\Code\dotenv-to-json\DotEnvToJson.App\bin\Release\netcoreapp3.1\DotEnvToJson.deps.json
+C:\Code\dotenv-to-json\DotEnvToJson.App\bin\Release\netcoreapp3.1\DotEnvToJson.runtimeconfig.json
+C:\Code\dotenv-to-json\DotEnvToJson.App\bin\Release\netcoreapp3.1\DotEnvToJson.runtimeconfig.dev.json
+C:\Code\dotenv-to-json\DotEnvToJson.App\bin\Release\netcoreapp3.1\DotEnvToJson.dll
+C:\Code\dotenv-to-json\DotEnvToJson.App\bin\Release\netcoreapp3.1\DotEnvToJson.pdb
+C:\Code\dotenv-to-json\DotEnvToJson.App\obj\Release\netcoreapp3.1\DotEnvToJson.App.FrmPrincipal.resources
+C:\Code\dotenv-to-json\DotEnvToJson.App\obj\Release\netcoreapp3.1\DotEnvToJson.App.csproj.GenerateResource.cache
+C:\Code\dotenv-to-json\DotEnvToJson.App\obj\Release\netcoreapp3.1\DotEnvToJson.App.AssemblyInfoInputs.cache
+C:\Code\dotenv-to-json\DotEnvToJson.App\obj\Release\netcoreapp3.1\DotEnvToJson.App.AssemblyInfo.cs
+C:\Code\dotenv-to-json\DotEnvToJson.App\obj\Release\netcoreapp3.1\DotEnvToJson.App.csproj.CoreCompileInputs.cache
+C:\Code\dotenv-to-json\DotEnvToJson.App\obj\Release\netcoreapp3.1\DotEnvToJson.dll
+C:\Code\dotenv-to-json\DotEnvToJson.App\obj\Release\netcoreapp3.1\DotEnvToJson.pdb
+C:\Code\dotenv-to-json\DotEnvToJson.App\obj\Release\netcoreapp3.1\DotEnvToJson.App.genruntimeconfig.cache
+C:\Code\dotenv-to-json\DotEnvToJson.App\obj\Release\netcoreapp3.1\DotEnvToJson.App.csprojAssemblyReference.cache

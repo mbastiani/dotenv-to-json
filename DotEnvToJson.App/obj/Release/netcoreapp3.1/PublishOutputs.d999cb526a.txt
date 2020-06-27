@@ -1,0 +1,5 @@
+C:\Code\dotenv-to-json\DotEnvToJson.App\bin\Release\netcoreapp3.1\publish\DotEnvToJson.exe
+C:\Code\dotenv-to-json\DotEnvToJson.App\bin\Release\netcoreapp3.1\publish\DotEnvToJson.dll
+C:\Code\dotenv-to-json\DotEnvToJson.App\bin\Release\netcoreapp3.1\publish\DotEnvToJson.deps.json
+C:\Code\dotenv-to-json\DotEnvToJson.App\bin\Release\netcoreapp3.1\publish\DotEnvToJson.runtimeconfig.json
+C:\Code\dotenv-to-json\DotEnvToJson.App\bin\Release\netcoreapp3.1\publish\DotEnvToJson.pdb
