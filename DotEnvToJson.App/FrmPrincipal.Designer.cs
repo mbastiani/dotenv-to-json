@@ -48,18 +48,18 @@
             this.PnlBottom.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.PnlBottom.Controls.Add(this.BtnConverter, 1, 0);
             this.PnlBottom.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.PnlBottom.Location = new System.Drawing.Point(0, 388);
+            this.PnlBottom.Location = new System.Drawing.Point(0, 499);
             this.PnlBottom.Name = "PnlBottom";
             this.PnlBottom.RowCount = 1;
             this.PnlBottom.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
             this.PnlBottom.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 62F));
-            this.PnlBottom.Size = new System.Drawing.Size(800, 62);
+            this.PnlBottom.Size = new System.Drawing.Size(784, 62);
             this.PnlBottom.TabIndex = 0;
             // 
             // BtnConverter
             // 
             this.BtnConverter.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.BtnConverter.Location = new System.Drawing.Point(290, 3);
+            this.BtnConverter.Location = new System.Drawing.Point(282, 3);
             this.BtnConverter.Name = "BtnConverter";
             this.BtnConverter.Size = new System.Drawing.Size(220, 56);
             this.BtnConverter.TabIndex = 1;
@@ -82,18 +82,18 @@
             this.PnlTop.RowCount = 2;
             this.PnlTop.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 22F));
             this.PnlTop.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.PnlTop.Size = new System.Drawing.Size(800, 388);
+            this.PnlTop.Size = new System.Drawing.Size(784, 499);
             this.PnlTop.TabIndex = 1;
             // 
             // TxtJson
             // 
             this.TxtJson.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.TxtJson.Location = new System.Drawing.Point(403, 25);
+            this.TxtJson.Location = new System.Drawing.Point(395, 25);
             this.TxtJson.Multiline = true;
             this.TxtJson.Name = "TxtJson";
             this.TxtJson.ReadOnly = true;
             this.TxtJson.ScrollBars = System.Windows.Forms.ScrollBars.Both;
-            this.TxtJson.Size = new System.Drawing.Size(394, 360);
+            this.TxtJson.Size = new System.Drawing.Size(386, 471);
             this.TxtJson.TabIndex = 2;
             this.TxtJson.TabStop = false;
             // 
@@ -101,9 +101,9 @@
             // 
             this.LblJson.AutoSize = true;
             this.LblJson.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.LblJson.Location = new System.Drawing.Point(403, 0);
+            this.LblJson.Location = new System.Drawing.Point(395, 0);
             this.LblJson.Name = "LblJson";
-            this.LblJson.Size = new System.Drawing.Size(394, 22);
+            this.LblJson.Size = new System.Drawing.Size(386, 22);
             this.LblJson.TabIndex = 0;
             this.LblJson.Text = "Json:";
             // 
@@ -113,7 +113,7 @@
             this.LblEnvs.Dock = System.Windows.Forms.DockStyle.Fill;
             this.LblEnvs.Location = new System.Drawing.Point(3, 0);
             this.LblEnvs.Name = "LblEnvs";
-            this.LblEnvs.Size = new System.Drawing.Size(394, 22);
+            this.LblEnvs.Size = new System.Drawing.Size(386, 22);
             this.LblEnvs.TabIndex = 0;
             this.LblEnvs.Text = "Envs:";
             // 
@@ -124,7 +124,7 @@
             this.TxtEnvs.Multiline = true;
             this.TxtEnvs.Name = "TxtEnvs";
             this.TxtEnvs.ScrollBars = System.Windows.Forms.ScrollBars.Both;
-            this.TxtEnvs.Size = new System.Drawing.Size(394, 360);
+            this.TxtEnvs.Size = new System.Drawing.Size(386, 471);
             this.TxtEnvs.TabIndex = 0;
             this.TxtEnvs.Text = "ENV_1=123\r\n\r\nENV_2=\'aaa\'\r\n\r\n#comentário\r\nENV_3=abc";
             // 
@@ -132,11 +132,12 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(784, 561);
             this.Controls.Add(this.PnlTop);
             this.Controls.Add(this.PnlBottom);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FrmPrincipal";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Env to Json";
             this.PnlBottom.ResumeLayout(false);
             this.PnlTop.ResumeLayout(false);
@@ -147,7 +148,6 @@
 
         #endregion
 
-        private System.Windows.Forms.SplitContainer splitContainer1;
         private System.Windows.Forms.TableLayoutPanel PnlBottom;
         private System.Windows.Forms.Button BtnConverter;
         private System.Windows.Forms.TableLayoutPanel PnlTop;

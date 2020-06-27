@@ -1,4 +1,4 @@
-﻿namespace DotEnvToJson.App
+﻿namespace DotEnvToJson.App.Models
 {
     public class Env
     {
